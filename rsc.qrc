@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>backg.jpg</file>
+        <file>artage-io-48165_1715773111.png</file>
+        <file>artage-io-48178_1715773048.png</file>
+        <file>dotaicon.png</file>
+        <file>Remove folder.ico</file>
+        <file>Warning.ico</file>
+        <file>left48.png</file>
+        <file>right26.png</file>
+        <file>Agent.ico</file>
+        <file>Dark Agent.ico</file>
+        <file>Users with cursor.ico</file>
+        <file>Handset in hand.ico</file>
+        <file>Network Neighborhood (16x16px &amp; 32x32px).ico</file>
+        <file>Screenshot from 2024-05-17 03-01-55.png</file>
+        <file>Screenshot from 2024-05-17 03-02-01.png</file>
+        <file>Screenshot from 2024-05-17 03-02-06.png</file>
+    </qresource>
+</RCC>

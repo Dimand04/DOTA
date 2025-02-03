@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/recourses">
+        <file>стрелка (1).png</file>
+        <file>стрелка (2).png</file>
+        <file>pngwing.com (1) (1).png</file>
+        <file>shell32-025.png</file>
+        <file>shell32-090.png</file>
+        <file>shell32-147.png</file>
+        <file>shell32-235.png</file>
+        <file>shell32-264.png</file>
+        <file>wallpaperflare.com_wallpaper.jpg</file>
+        <file>фоооооооон.jpg</file>
+        <file>3D computer.ico</file>
+    </qresource>
+</RCC>
